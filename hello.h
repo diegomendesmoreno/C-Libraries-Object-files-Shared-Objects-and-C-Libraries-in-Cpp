@@ -1,6 +1,6 @@
-#ifndef HELLO_H
-#define HELLO_H
+#ifndef _HELLO_H
+#define _HELLO_H
 
 void hello_world(void);
 
-#endif  // HELLO_H
+#endif  // _HELLO_H

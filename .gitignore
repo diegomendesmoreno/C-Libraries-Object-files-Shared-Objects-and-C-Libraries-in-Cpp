@@ -1,0 +1,9 @@
+*.o
+*.so
+main
+main_cpp
+
+# Replit
+.replit
+replit.nix
+.cache
